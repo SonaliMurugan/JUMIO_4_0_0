@@ -23,7 +23,7 @@
 
        <podspec>
             <config>
-                <source url="https://github.com/CocoaPods/CDN-Specs.git"/>
+                <source url="https://github.com/CocoaPods/CDN-Specs/"/>
             </config>
             <pods use-frameworks="true">
                 <pod name="Jumio" spec="4.0.0"/>
