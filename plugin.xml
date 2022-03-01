@@ -21,14 +21,14 @@
             <string>$CAMERA_USAGE_DESCRIPTION</string>
         </config-file>
 
-        <!--<podspec>
+        <podspec>
             <config>
-                <source url="https://github.com/CocoaPods/Specs.git"/>
+                <source url="https://github.com/CocoaPods/Specs"/>
             </config>
             <pods use-frameworks="true">
                 <pod name="Jumio" spec="4.0.0"/>
             </pods>
-        </podspec>-->
+        </podspec>
 	    
     </platform>
 
